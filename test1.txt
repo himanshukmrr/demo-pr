@@ -1,0 +1,2 @@
+Created on Remote update this on local by command git pull origin main
+when you have to update from remote to local then command is pull
